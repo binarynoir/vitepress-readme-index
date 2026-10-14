@@ -1,6 +1,6 @@
 {
   "name": "@binarynoir/vitepress-readme-index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Migrate from VuePress to VitePress without renaming every README.md: each folder's README.md is served as its index page, and links to it keep working.",
   "keywords": [
     "vitepress",
