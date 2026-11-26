@@ -8,11 +8,11 @@ A [VitePress](https://vitepress.dev) plugin for sites moving from
 [VuePress](https://vuepress.vuejs.org): it serves each folder's `README.md` as
 its index page, as VuePress did, and keeps links to `README.md` working.
 
-[Documentation and live demo](https://binarynoir.tech/plugins/readme-index/)
+[Documentation and live demo](https://binarynoir.com/plugins/readme-index/)
 
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/binarynoir)
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/binarynoir)
-[![More tools](https://img.shields.io/badge/Website-binarynoir.tech-8c8c8c?style=for-the-badge)](https://binarynoir.tech)
+[![More tools](https://img.shields.io/badge/Website-binarynoir.com-8c8c8c?style=for-the-badge)](https://binarynoir.com)
 
 ## What this does
 
@@ -181,8 +181,8 @@ Pull requests are welcome too.
 ## More from BinaryNoir
 
 <p align="center">
-  <a href="https://binarynoir.tech">
-    <img alt="BinaryNoir" src="https://binarynoir.tech/logo-horizontal.png" width="320">
+  <a href="https://binarynoir.com">
+    <img alt="BinaryNoir" src="https://binarynoir.com/logo-horizontal.png" width="320">
   </a>
 </p>
 
@@ -190,16 +190,16 @@ README Index is one of a family of open-source tools from BinaryNoir.
 
 **Pairs well with README Index**
 
-- [Auto Sidebar](https://binarynoir.tech/plugins/auto-sidebar/): sidebar built from your folders
-- [HTML Escape](https://binarynoir.tech/plugins/html-escape/): stray tags and braces shown as text, not build errors
-- [Broken Links](https://binarynoir.tech/plugins/broken-links): dead links shown as text, not build errors
+- [Auto Sidebar](https://binarynoir.com/plugins/auto-sidebar/): sidebar built from your folders
+- [HTML Escape](https://binarynoir.com/plugins/html-escape/): stray tags and braces shown as text, not build errors
+- [Broken Links](https://binarynoir.com/plugins/broken-links): dead links shown as text, not build errors
 
-**New:** [Blog for Vite](https://binarynoir.tech/plugins/vite-blog): a Markdown blog for a plain Vite site, with search, feeds and a strict CSP
+**New:** [Blog for Vite](https://binarynoir.com/plugins/vite-blog): a Markdown blog for a plain Vite site, with search, feeds and a strict CSP
 
-**See them all:** VitePress plugins, Vite plugins, editor extensions and command-line tools, with documentation and live demos, at **[binarynoir.tech](https://binarynoir.tech)**.
+**See them all:** VitePress plugins, Vite plugins, editor extensions and command-line tools, with documentation and live demos, at **[binarynoir.com](https://binarynoir.com)**.
 
 <!-- binarynoir:more:end -->
 
 ## Author
 
-John Smith III, [BinaryNoir](https://binarynoir.tech). Thanks to all contributors and users for their support and feedback.
+John Smith III, [BinaryNoir](https://binarynoir.com). Thanks to all contributors and users for their support and feedback.
